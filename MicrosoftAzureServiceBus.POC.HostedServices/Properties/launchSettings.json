@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "MicrosoftAzureServiceBus.POC.HostedServices": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
